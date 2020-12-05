@@ -4,7 +4,7 @@ The app to treat your apetite! MyFood let's you find a selection of the best ven
 
 ## Screenshots
 
-<img src="https://github.com/Charis1331/MyFood/blob/main/screenshots/screen1.png" width="300"> </br> <img src="https://github.com/Charis1331/MyFood/blob/main/screenshots/screen2.png" width="300"> 
+<img src="https://github.com/Charis1331/MyFood/blob/main/screenshots/screen1.png" width="300"> <img src="https://github.com/Charis1331/MyFood/blob/main/screenshots/screen2.png" width="300"> 
 
 ## Libraries
 * Retrofit
