@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FoodVenueApp</string>
+
+    <string name="no_network_connection">No internet connection</string>
+    <string name="generic_error">An error occurred. Error code: %1$d</string>
+
+    <string name="meters">meters</string>
+    <string name="kilometers">kilometers</string>
+
+
+    <string name="empty_venues_list">Couldn\'t retrieve venues</string>
+    <string name="location_retrieval_error">Could not retrieve location.</string>
+    <string name="rejected_permissions_message">To make use of the app you need to accept the Location permissions.</string>
+    <string name="rejected_location_settings_message">To make use of the app you need to enable the device\'s GPS.</string>
+</resources>

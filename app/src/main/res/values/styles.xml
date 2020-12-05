@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="VenueTextView">
+        <item name="android:gravity">start</item>
+        <item name="android:textAlignment">textStart</item>
+    </style>
+
+    <style name="VenueTextView.Distance">
+        <item name="android:gravity">center</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Headline5
+        </item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="VenueTextView.Distance.Unit">
+        <item name="android:text">@string/meters</item>
+        <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Caption</item>
+    </style>
+
+    <style name="VenueTextView.Name">
+        <item name="android:layout_marginStart">@dimen/padding</item>
+        <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Headline6
+        </item>
+    </style>
+
+    <style name="VenueTextView.Category">
+        <item name="android:layout_marginTop">@dimen/small_padding</item>
+        <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Body2</item>
+    </style>
+
+    <style name="VenueTextView.Address">
+        <item name="android:layout_marginTop">@dimen/small_padding</item>
+        <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Caption</item>
+    </style>
+
+</resources>
